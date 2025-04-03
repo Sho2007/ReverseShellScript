@@ -28,6 +28,8 @@ if(connect(S,sockaddr_in($p,inet_aton($i)))) {
 ```
 ## PHP
 ReverseShell.php
+<details>
+  <summary>ดูโค้ดตัวอย่าง</summary>
 ```php
 <?php
 // php-reverse-shell - A Reverse Shell implementation in PHP
