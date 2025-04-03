@@ -1,4 +1,4 @@
-# ReverseShellScript
+# ReverseShellScript (Not mine script)
 Reverse Shell script : PERL , PHP , PYTHON
 ___
 
